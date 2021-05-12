@@ -1,0 +1,21 @@
+{
+  "runtimeOptions": {
+    "tfm": "net5.0",
+    "frameworks": [
+      {
+        "name": "Microsoft.NETCore.App",
+        "version": "5.0.5"
+      },
+      {
+        "name": "Microsoft.AspNetCore.App",
+        "version": "5.0.5"
+      }
+    ],
+    "additionalProbingPaths": [
+      "C:\\Users\\DBernier\\.nuget\\packages\\",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+      "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+      "C:\\ProgramData\\PostSharp\\NuGetFallback"
+    ]
+  }
+}
